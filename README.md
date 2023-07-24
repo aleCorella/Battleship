@@ -1,6 +1,6 @@
 # 🚢 Battleship Game Project
 
-[![imagen-2023-07-23-223257060.png](https://i.postimg.cc/CKbH9TFN/imagen-2023-07-23-223257060.png)](https://postimg.cc/FfsLJ6kd)
+[![imagen-2023-07-23-223424340.png](https://i.postimg.cc/J7XDqczN/imagen-2023-07-23-223424340.png)](https://postimg.cc/LhH84Pf5)
 This project aims to replicate the classic board game "Battleship" in a digital format. The game is implemented using matrices to represent the game board, and players can add ships of different sizes (1-cell, 2-cells, 3-cells) by providing coordinates.
 
 ## ⭐ Features
